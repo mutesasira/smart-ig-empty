@@ -13,7 +13,7 @@ Description: "ForTrainingPurposes"
 * gender 1..1 
 * telecom 1..* 
 
-name obeys key-1
+* name obeys key-1
 
 * extension contains PatientOccupation named occupation 1..1
 * extension contains PatientPlaceOfBirth named placeOfBirth 1..3
